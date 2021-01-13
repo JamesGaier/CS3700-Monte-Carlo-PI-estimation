@@ -1,0 +1,7 @@
+master start: 0 end: 40000 part sum: 31510
+slave: 3start: 120001 end: 160000 part sum: 31420
+slave: 2start: 80001 end: 120000 part sum: 31460
+slave: 4start: 160001 end: 200000 part sum: 31509
+slave: 1start: 40001 end: 80000 part sum: 31509
+Sum: 157408 Ratio: 0.78704
+PI: 3.14816
